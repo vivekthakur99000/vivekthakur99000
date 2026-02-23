@@ -1,7 +1,7 @@
 ![logo](https://raw.githubusercontent.com/viveksati5143/viveksati5143/main/headergitdark.gif)
 
 <h1 align="center">Hi 👋, I'm Vivek Thakur</h1>
-<h3 align="center">A Passionate Full Stack Web Developer from India 🇮🇳</h3>
+<h3 align="center">Full Stack Web Developer | MERN | Next.js | TypeScript</h3>
 
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
 
@@ -25,16 +25,27 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🌱 Currently learning **Node.js, Express.js, MongoDB**
-- 💬 Ask me about **React, HTML, CSS, JavaScript**
-- 📫 Reach me at **vivekthakur99000@gmail.com**
-- ⚡ Fun fact: **🎸 I can code for hours while jamming to rock music**
+I’m a **Full Stack Web Developer** skilled in building **scalable, responsive, and user-focused web applications**.
+
+- 💻 Strong in **MERN Stack (MongoDB, Express.js, React, Node.js)**
+- ⚡ Experienced with **Next.js** for performance-optimized and SEO-friendly apps
+- 🧠 Comfortable writing **TypeScript** for scalable and maintainable codebases
+- 🧩 Passionate about problem-solving, clean architecture, and modern UI/UX
+- 🚀 I enjoy turning ideas into real-world products
 
 ---
 
-### 🤝 Connect with Me
+## 🌱 Currently Learning
+
+- 🤖 **AI / Machine Learning**
+- 🧠 Backend optimization & system design
+- ☁️ Production-level deployment & scalability
+
+---
+
+## 🤝 Connect with Me
 
 <p align="left">
   <a href="https://twitter.com/vivekth64517902" target="_blank">
@@ -53,17 +64,18 @@
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
@@ -72,16 +84,16 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekthakur99000&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekthakur99000&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekthakur99000&show_icons=true&locale=en" alt="github-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekthakur99000&show_icons=true&locale=en" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekthakur99000" alt="streak-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekthakur99000" />
 </p>
